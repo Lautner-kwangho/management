@@ -7,7 +7,7 @@
 <br/><br/>
 ### UI
 - Code Base
-- DarkMode vs ???
+- DarkMode vs 테마?
 
 <br/><br/>
 ### Stack
@@ -18,8 +18,11 @@
 
 <br/><br/>
 ## 회고
-- 
+- 추후 작성 예정
 
+<br/><br/>
+## 이슈
+-
 
 <br/><br/>
 ## 기획
