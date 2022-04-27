@@ -1,6 +1,6 @@
 # management
 신규 출시 앱 히스토리를 적을 Repo입니다
-- 예산 관련 어플입니다 ( 주제: 준비 )
+- 가계부 관련 어플입니다 ( 주제: 준비 )
 
 <br/><br/>
 ## 고려사항
@@ -40,6 +40,7 @@
 
 <br/><br/>
 ## 초기 UI 디자인
+<img width="480" alt="스크린샷 2022-04-28 오전 12 05 52" src="https://user-images.githubusercontent.com/80211277/165551391-a123fc27-f69b-402c-baaa-65b1685eee19.png">
 <img width="480" alt="스크린샷 2022-04-27 오후 12 48 22" src="https://user-images.githubusercontent.com/80211277/165436549-6c6fd653-cbe8-417f-91c0-532273cd3e80.png">
 <img width="400" alt="스크린샷 2022-04-27 오후 12 48 33" src="https://user-images.githubusercontent.com/80211277/165436554-98f35331-e145-4cb0-9cbd-e982eb05a677.png">
 
