@@ -39,8 +39,9 @@
 - 달력
 
 <br/><br/>
-## 디자인
-- 
+## 초기 UI 디자인
+<img width="480" alt="스크린샷 2022-04-27 오후 12 48 22" src="https://user-images.githubusercontent.com/80211277/165436549-6c6fd653-cbe8-417f-91c0-532273cd3e80.png">
+<img width="400" alt="스크린샷 2022-04-27 오후 12 48 33" src="https://user-images.githubusercontent.com/80211277/165436554-98f35331-e145-4cb0-9cbd-e982eb05a677.png">
 
 <br/><br/>
 ## 이슈
