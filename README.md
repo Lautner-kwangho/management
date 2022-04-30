@@ -4,7 +4,6 @@
 
 <br/><br/>
 ## 고려사항
-<br/><br/>
 ### UI
 - Code Base
 - DarkMode
@@ -23,7 +22,8 @@
 <br/><br/>
 ## 기획
 ### 아키텍처
-- 
+<img width="640" alt="스크린샷 2022-04-30 오후 8 49 12" src="https://user-images.githubusercontent.com/80211277/166104289-c909fc59-5e66-43d1-bf10-349091b7903e.png">
+
 
 ### 기능
 - CURD (예산, 목록, 세부사항)
@@ -46,4 +46,4 @@
 
 <br/><br/>
 ## 이슈
--
+[SwiftUI Architecture에 대하여](https://github.com/Lautner-kwangho/management/issues/1)
