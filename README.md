@@ -4,16 +4,21 @@
 
 <br/><br/>
 ## 고려사항
-### UI
-- Code Base
+- Storyboard & 필요시 Code 적용
 - DarkMode
 
 <br/><br/>
 ### Stack
 - Swift, UIKit & SwiftUI (상황에 맞게 혼용할 계획)
-- MVVM Pattern 
-- RxSwift, Snapkit, SwiftRealm (라이브러리 5개 이하로 최소화)
+- MVVM Pattern
+- SwiftLint(획일화 및 클린코드), SwiftGen(개별 관리 가능), RxSwift 또는 Combine(고민 중), SwiftRealm(NOSQL 장점)
 - TestFlight ( CI/CD )
+
+<br/><br/>
+### 특징
+- 라이브러리 설치: Cocoapods를 사용하여 단일 관리 포인트 사용
+- 라이브러리 사용: 라이브러리 사용을 최소화하며, 간편한 라이브러리를 쓰더라도 추후 제거할 예정
+- 
 
 <br/><br/>
 ## 회고
