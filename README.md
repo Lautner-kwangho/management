@@ -11,17 +11,19 @@
 ### Stack
 - Swift, UIKit & SwiftUI (상황에 맞게 혼용할 계획)
 - MVVM Pattern
-- SwiftLint(획일화 및 클린코드), SwiftGen(개별 관리 가능), RxSwift 또는 Combine(고민 중), SwiftRealm(NOSQL 장점)
-- TestFlight ( CI/CD )
+- SwiftLint(획일화 및 클린코드), SwiftGen(개별 관리 가능), RxSwift(비동기처리), SwiftRealm(NOSQL 장점)
+- TestFlight (CI/CD)
 
 <br/><br/>
 ### 특징
 - 라이브러리 설치: Cocoapods를 사용하여 단일 관리 포인트 사용
 - 라이브러리 사용: 라이브러리 사용을 최소화하며, 간편한 라이브러리를 쓰더라도 추후 제거할 예정
-- 
+- RxSwift를 사용하지만 Combine으로 리펙토링해볼 예정
 
 <br/><br/>
 ## 회고
+- 개발 중 고민들
+ Outlet 연결에 대한 것들
 - 추후 작성 예정
 
 <br/><br/>
